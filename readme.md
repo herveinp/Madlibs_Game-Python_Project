@@ -5,18 +5,18 @@ A simple Python word game where you create a funny story by filling in blanks wi
 ## How to Play
 
 1. Clone the repository
-```
-git clone Madlibs_Game-Python_Project
-```
-1. Run the program:
+   ```
+   git clone Madlibs_Game-Python_Project
+   ```
+2. Run the program:
    ```
    python main.py
    ```
-2. You will be prompted to enter:
+3. You will be prompted to enter:
    - Three adjectives
    - One noun
    - One verb ending with "ing"
-3. After entering your words, the program will generate a short, silly story using your inputs.
+4. After entering your words, the program will generate a short, silly story using your inputs.
 
 ## Example
 
