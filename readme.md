@@ -6,7 +6,7 @@ A simple Python word game where you create a funny story by filling in blanks wi
 
 1. Clone the repository
    ```
-   git clone Madlibs_Game-Python_Project
+   git clone https://github.com/herveinp/Madlibs_Game-Python_Project.git && cd Madlibs_Game-Python_Project
    ```
 2. Run the program:
    ```
