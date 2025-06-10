@@ -29,6 +29,7 @@ Enter an adjective (description of something): surprised
 ```
 
 Output:
+
 ```
 Today I went to a/an silly zoo.
 In an exhibit, I saw a/an monkey.
